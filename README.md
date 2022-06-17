@@ -1,1 +1,2 @@
-# EJayG.github.io
+My Blog <br>
+Philosophy by me
