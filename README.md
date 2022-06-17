@@ -1,2 +1,2 @@
-My Blog!
+My Blog! <br>
 -- Philosophy
