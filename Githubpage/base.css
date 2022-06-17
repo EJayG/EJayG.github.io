@@ -1,0 +1,15 @@
+body{
+    background-color: #202020;
+}
+
+h1{
+    color:aliceblue;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 3em;
+}
+
+.pageheader {
+	font-size: 1rem;
+	margin: 1rem 0;
+}
+
