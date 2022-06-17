@@ -1,2 +1,2 @@
 My Blog <br>
-Philosophy by me
+Philosophy! written by me
