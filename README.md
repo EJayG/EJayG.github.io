@@ -1,5 +1,5 @@
 My Blog! <br>
 -- Philosophy
 <br>
-HOW TO CITE: <br>
-Garcia, Evaristo. <i> Title. <i> https://ejayg.github.io/ 
+How to cite: <br>
+Garcia, Evaristo. <i> title. </i> https://ejayg.github.io/ 
